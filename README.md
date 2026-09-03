@@ -1,4 +1,4 @@
-# 🧪 TestTask
+# 🧪 FPV-Exploration
 
 **TestTask** is a first-person exploration game created as a technical demonstration of Unreal Engine Blueprints. It features a multi-stage scenario with interactive mechanics, user interface, and error-checking systems.
 
